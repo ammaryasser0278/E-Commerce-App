@@ -1,8 +1,10 @@
 🛒 E-Commerce App (Internship Project @ CodeAlpha)
-A full-featured Flutter e-commerce app developed during my internship at CodeAlpha, focusing on modern UI, smooth performance, and end-to-end shopping workflows.
+
+A full-featured Flutter e-commerce application built during my internship at CodeAlpha, designed with a focus on modern UI, smooth performance, and real-world shopping workflows.
 
 🚀 Features
-Splash Screen with animation
+
+Splash Screen with smooth animation
 
 3 Onboarding Screens
 
@@ -10,38 +12,40 @@ User Authentication (Sign-up/Login with Firebase Auth)
 
 Product Listing with modern UI
 
-Cart & Favorites management
+Cart & Favorites Management
 
 Search functionality
 
 Secure Stripe Payment Gateway
 
-Order history and tracking
+Order History & Tracking
 
-Seller dashboard for product management
+Seller Dashboard for product management
 
 ⚙️ Tech Stack
+
 Framework: Flutter (Dart)
 
 State Management: Cubit, Bloc, Equatable
 
-Architecture: MVVM, Clean Code principles
+Architecture: MVVM, Clean Code Principles
 
-Routing: Go Router
+Routing: GoRouter
 
-Backend: Firebase Auth, Firestore, Cloud Storage
+Backend & Services: Firebase Auth, Firestore, Cloud Storage
 
 Payments: Stripe API
 
 Utilities: Cached Network Image, Shimmer, Shared Preferences, Path Provider
 
-UI/UX: Responsive design, modern animations
+UI/UX: Responsive design, smooth animations, modern look
 
 🌟 Highlights
-Real-world e-commerce workflows
 
-Clean, scalable architecture
+End-to-end e-commerce workflows
 
-Responsive and modern mobile-first UI
+Clean & scalable architecture
 
-Hands-on experience with Firebase & Stripe
+Responsive, mobile-first modern UI
+
+Hands-on integration with Firebase & Stripe
