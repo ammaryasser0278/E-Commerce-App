@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142128694442",
+    "project_id": "supp-marts",
+    "storage_bucket": "supp-marts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142128694442:android:8a78aec423bd8a99d7fcd3",
+        "android_client_info": {
+          "package_name": "com.example.supplements_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6eHLDYpHZX8Etb-KpWt4eO_Pw8SE9FbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
