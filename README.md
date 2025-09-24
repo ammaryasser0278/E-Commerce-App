@@ -1,51 +1,48 @@
-🛒 E-Commerce App (Internship Project @ CodeAlpha)
+# 🛒 E-Commerce App (Internship Project @ CodeAlpha)
 
-A full-featured Flutter e-commerce application built during my internship at CodeAlpha, designed with a focus on modern UI, smooth performance, and real-world shopping workflows.
+A full-featured **Flutter e-commerce application** built during my internship at **[CodeAlpha](https://www.linkedin.com/company/codealpha/)**.  
+This project focuses on delivering a **modern UI**, **smooth performance**, and **end-to-end shopping workflows** with clean and scalable architecture.
 
-🚀 Features
+---
 
-Splash Screen with smooth animation
+## 🚀 Features
+- 🖼️ Splash Screen with smooth animation  
+- 📲 3 Onboarding Screens  
+- 🔑 User Authentication (Sign-up / Login with Firebase Auth)  
+- 🛍️ Product Listing with modern responsive UI  
+- 🛒 Cart & Favorites Management  
+- 🔎 Search functionality  
+- 💳 Secure Stripe Payment Gateway  
+- 📦 Order History & Tracking  
+- 🛠️ Seller Dashboard for product management  
 
-3 Onboarding Screens
+---
 
-User Authentication (Sign-up/Login with Firebase Auth)
+## ⚙️ Tech Stack
+- **Framework:** Flutter (Dart)  
+- **State Management:** Cubit, Bloc, Equatable  
+- **Architecture:** MVVM, Clean Code Principles  
+- **Routing:** GoRouter  
+- **Backend & Services:** Firebase Auth, Firestore, Firebase Cloud Storage  
+- **Payments:** Stripe API  
+- **Utilities & Packages:**  
+  - cached_network_image: ^3.3.1  
+  - shimmer: ^3.0.0  
+  - shared_preferences: ^2.3.2  
+  - path_provider: ^2.1.4  
+- **UI/UX:** Responsive Design, Modern Animations, Shimmer Loading  
 
-Product Listing with modern UI
+---
 
-Cart & Favorites Management
+## 🌟 Highlights
+- ✅ Real-world **e-commerce workflows**  
+- ✅ Clean, scalable **architecture** (MVVM + Cubit)  
+- ✅ **Responsive** and mobile-first modern UI  
+- ✅ Hands-on experience with **Firebase & Stripe integration**  
 
-Search functionality
+---
 
-Secure Stripe Payment Gateway
+## 🙌 Acknowledgment
+This project was developed as part of my internship at **[@CodeAlpha](https://www.linkedin.com/company/codealpha/)** 🚀
 
-Order History & Tracking
-
-Seller Dashboard for product management
-
-⚙️ Tech Stack
-
-Framework: Flutter (Dart)
-
-State Management: Cubit, Bloc, Equatable
-
-Architecture: MVVM, Clean Code Principles
-
-Routing: GoRouter
-
-Backend & Services: Firebase Auth, Firestore, Cloud Storage
-
-Payments: Stripe API
-
-Utilities: Cached Network Image, Shimmer, Shared Preferences, Path Provider
-
-UI/UX: Responsive design, smooth animations, modern look
-
-🌟 Highlights
-
-End-to-end e-commerce workflows
-
-Clean & scalable architecture
-
-Responsive, mobile-first modern UI
-
-Hands-on integration with Firebase & Stripe
+---
