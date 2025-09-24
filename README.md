@@ -26,10 +26,10 @@ This project focuses on delivering a **modern UI**, **smooth performance**, and 
 - **Backend & Services:** Firebase Auth, Firestore, Firebase Cloud Storage  
 - **Payments:** Stripe API  
 - **Utilities & Packages:**  
-  - cached_network_image: ^3.3.1  
-  - shimmer: ^3.0.0  
-  - shared_preferences: ^2.3.2  
-  - path_provider: ^2.1.4  
+  - cached_network_image
+  - shimmer 
+  - shared_preferences
+  - path_provider
 - **UI/UX:** Responsive Design, Modern Animations, Shimmer Loading  
 
 ---
