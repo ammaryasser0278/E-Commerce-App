@@ -1,67 +1,46 @@
-<<<<<<< HEAD
-# 🛒 E-Commerce App (Internship Project @ CodeAlpha)
+# SuppMarts 🛒  
+*A Mini eCommerce App — Built with Flutter & Firebase*  
 
-A full-featured **Flutter e-commerce application** built during my internship at **[CodeAlpha](https://www.linkedin.com/company/codealpha/)**.  
-This project focuses on delivering a **modern UI**, **smooth performance**, and **end-to-end shopping workflows** with clean and scalable architecture.
-
----
-
-## 🚀 Features
-- 🖼️ Splash Screen with smooth animation  
-- 📲 3 Onboarding Screens  
-- 🔑 User Authentication (Sign-up / Login with Firebase Auth)  
-- 🛍️ Product Listing with modern responsive UI  
-- 🛒 Cart & Favorites Management  
-- 🔎 Search functionality  
-- 💳 Secure Stripe Payment Gateway  
-- 📦 Order History & Tracking  
-- 🛠️ Seller Dashboard for product management  
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)  
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)  
+![Stripe](https://img.shields.io/badge/Stripe-Payments-blueviolet)  
+![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Internship-green)
 
 ---
 
-## ⚙️ Tech Stack
-- **Framework:** Flutter (Dart)  
-- **State Management:** Cubit, Bloc, Equatable  
-- **Architecture:** MVVM, Clean Code Principles  
-- **Routing:** GoRouter  
-- **Backend & Services:** Firebase Auth, Firestore, Firebase Cloud Storage  
-- **Payments:** Stripe API  
-- **Utilities & Packages:**  
-  - cached_network_image
-  - shimmer 
-  - shared_preferences
-  - path_provider
-- **UI/UX:** Responsive Design, Modern Animations, Shimmer Loading  
+## ✨ Overview  
+SuppMarts is a modern **mini eCommerce mobile application** developed during my internship at **CodeAlpha**. It provides a complete shopping experience with user authentication, product listings, cart, order tracking, seller dashboard, and secure payments.  
 
 ---
 
-## 🌟 Highlights
-- ✅ Real-world **e-commerce workflows**  
-- ✅ Clean, scalable **architecture** (MVVM + Cubit)  
-- ✅ **Responsive** and mobile-first modern UI  
-- ✅ Hands-on experience with **Firebase & Stripe integration**  
+## 🚀 Features  
+- 🎬 **Splash Screen** with smooth animation  
+- 📝 **3 Onboarding Screens**  
+- 🔑 **Firebase Authentication** (Login & Sign-up)  
+- 📦 **Product Listing** with Firestore + Cloud Storage  
+- 🛒 **Shopping Cart**  
+- 🔍 **Search Functionality**  
+- 💳 **Secure Payments with Stripe**  
+- 📜 **Order History & Tracking**  
+- 🛍 **Seller Dashboard**  
 
 ---
 
-## 🙌 Acknowledgment
-This project was developed as part of my internship at **[@CodeAlpha](https://www.linkedin.com/company/codealpha/)** 🚀
+## 🛠 Tech Stack  
+- **Flutter** (UI & cross-platform)  
+- **Firebase** (Auth, Firestore, Cloud Storage)  
+- **Stripe** (Secure Payment Gateway)  
+- **Cubit / BLoC** (State Management)  
+- **MVVM + Clean Code Architecture**  
+- **Go Router** (Navigation)  
+- **Cached Network Image, Shimmer, Path Provider, Shared Preferences**  
 
 ---
-=======
-# supplements_app
 
-A new Flutter project.
+## 📱 Screenshots  
+*(Add app screenshots here for better visualization)*  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> e4bd56c (E-commerce App)
+## 🔗 Acknowledgement  
+This project was developed as part of my **internship at [CodeAlpha](https://codealpha.tech/)**.  
